@@ -15,3 +15,5 @@ I’m a high school student who likes building small tools and figuring out how 
 I try to reproduce the problem, check the logs, and make the smallest change I can verify. My favorite part is figuring out why the fix worked.
 
 ![](assets/signal.gif)
+
+![](assets/profile-image.png)
